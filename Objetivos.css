@@ -1,10 +1,10 @@
 :root {
-    --botao-inativo: #997878;
+    --botao-inativo: #ECA427;
     --rosa: #ffffff;
-    --botao-ativo: #da8ced;
+    --botao-ativo: #A8D5E3;
     --lightblue: #00ff91;
     --texto-fundo: #977e7e;
-    --azul: #000000;
+    --azul: #F2F0EA;
 }
 
 body {
